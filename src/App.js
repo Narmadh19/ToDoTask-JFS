@@ -1,8 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import {BrowserRouter,Routes,Route} from "react-router-dom";
-import Sigin from './Sigin';
-import Tasks from './Tasks';
 
 function App() {
   return (
